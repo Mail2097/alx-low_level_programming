@@ -1,1 +1,1 @@
-pointer
+pointer, arrays
