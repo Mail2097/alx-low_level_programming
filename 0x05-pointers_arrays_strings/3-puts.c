@@ -1,12 +1,14 @@
 #include <stdio.h>
 /**
- * Main - Entry point
- * void _puts(char *str);
- * n: I do not fear computers. I fear the lack of them
- * Return: n
+ * _puts - prints a string, followed by a new line, to stdout
+ * @str: string to print
  */
-void void _puts(char *str);
+void _puts(char *str)
 {
-	str = int
+	while (*str != '\0')
+	{
+		_putchar(*str++);
+	}
+	_putchar('\n');
 }
 
