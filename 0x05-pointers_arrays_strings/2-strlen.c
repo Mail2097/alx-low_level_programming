@@ -1,9 +1,18 @@
 #include <stdio.>
 /**
- * int _strlen - integers strlen
- * Return: b
+ * _strlen - returns the length of a string
+ * @s: string
+ * Return: length
  */
-void int _strlen(char *s)
+int _strlen(char *s)
 {
-	int *str;
+	int longi = 0;
+
+	while (*s != '\0')
+	{
+		longi++;
+		s++;
+	}
+
+	return (longi);
 }
