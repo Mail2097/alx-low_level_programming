@@ -1,0 +1,13 @@
+#include "main.h"
+#include <stdio.h>
+
+/**
+* Main - Entry point
+* a = 98;
+* b = 42;
+* Return: 0
+*/
+void _putchar
+{
+arrays
+}
