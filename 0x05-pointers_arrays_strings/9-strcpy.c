@@ -1,5 +1,4 @@
 #include "main.h"
-
 /**
  * char *_strcpy - a function
  * @dest: copy to
