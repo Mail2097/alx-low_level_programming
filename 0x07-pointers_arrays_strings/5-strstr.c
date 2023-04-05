@@ -1,4 +1,4 @@
-#inclue "main.h"
+#include "main.h"
 /**
  * _strstr - Entry point
  * @haystack: input
